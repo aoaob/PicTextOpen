@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicTextOpen", "PicTextOpen\PicTextOpen.csproj", "{525313E9-277A-47C6-964F-8A74C85C42BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525313E9-277A-47C6-964F-8A74C85C42BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525313E9-277A-47C6-964F-8A74C85C42BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525313E9-277A-47C6-964F-8A74C85C42BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525313E9-277A-47C6-964F-8A74C85C42BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D8D884-A295-4E5F-9EFF-621737C653C7}
+	EndGlobalSection
+EndGlobal
